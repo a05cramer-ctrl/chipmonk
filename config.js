@@ -1,12 +1,1 @@
-// Fill CA + X at launch. BUY/CHART auto-build from CA when left empty.
-window.CHIPMONK_CFG = {
-  NAME: "chipmonk",
-  TICKER: "chipmonk",
-  CA: "",
-  CHAIN: "solana",
-  PAD: "pumpfun",
-  PAIR: "",
-  X: "",
-  BUY: "",
-  CHART: ""
-};
+window.CHIPMONK_CFG = { NAME: "chipmonk", TICKER: "chipmonk", CA: "HAH2qHJtkiBu9SWVBSv9zKtPccD3W2XtqJVspFLzpump", CHAIN: "solana", PAD: "pumpfun", PAIR: "", X: "https://x.com/TheOneChipmonk", BUY: "https://pump.fun/coin/HAH2qHJtkiBu9SWVBSv9zKtPccD3W2XtqJVspFLzpump", CHART: "https://gmgn.ai/sol/token/HAH2qHJtkiBu9SWVBSv9zKtPccD3W2XtqJVspFLzpump" };
